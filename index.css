@@ -1,0 +1,38 @@
+.slide2{
+    background-color: rgb(77, 77, 235);
+   }
+   .slide21{
+    padding: 30px;
+   }
+   .slide3{
+    background-color: white;
+   }
+   .slide31{
+    padding: 20px;
+   }
+   .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 20px; /* Optional: adds some spacing between grid items */
+    margin:30px;
+   }
+   
+   .grid-item {
+    background-color: rgb(77, 238, 224);
+    padding: 20px;
+   }
+   .slide4{
+    background-color: rgb(221, 221, 243);
+    background-image: url('Ellipse 2.png');
+    background-size:110%;
+    background-position: center;
+   background-repeat: no-repeat;
+   height:400px;
+   }
+   .slide41{
+    padding: 20px;
+   }
+   .slide5{
+    background-color: aqua;
+   }
